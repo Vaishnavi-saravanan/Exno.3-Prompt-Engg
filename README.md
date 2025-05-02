@@ -47,7 +47,9 @@ Customer Query: "Can you show me a comparison of the two models?"
 
 Chatbot Response:
 
+
 "Sure, here's a table comparing the two models for you:"
+
 ![Screenshot 2025-05-02 083244](https://github.com/user-attachments/assets/cb241d8a-d0de-4f78-90b7-4429fe1a56b5)
 
 
